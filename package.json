@@ -4,6 +4,9 @@
   "description": "asd",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "@earthtone/prisoner-ipsum": "^2.0.1",
     "puppeteer": "^5.3.0",
